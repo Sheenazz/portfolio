@@ -13,7 +13,7 @@ W repozytorium **challenge_portfolio_ada** pokazane są wszystkie przerobione pr
 
 :point_right: Link do wykonanych przeze mnie przypadków testowych: [Przypadki testowe 2](https://docs.google.com/document/d/1ZNafun7Q4PmMH41-34yIOcGCB_on2Rn-Sy20tpVFCgI/edit?usp=share_link)
 
-:point_right Link do opisu błędów: [Błędy](https://docs.google.com/spreadsheets/d/19cymrYmvRUFz2Q0rdWRXkEn_uj7UTsY9mQzu0rawXOc/edit?usp=share_link)
+:point_right: Link do opisu błędów: [Błędy](https://docs.google.com/spreadsheets/d/19cymrYmvRUFz2Q0rdWRXkEn_uj7UTsY9mQzu0rawXOc/edit?usp=share_link)
 
 ## Kursy
 
@@ -35,7 +35,9 @@ W repozytorium **challenge_portfolio_ada** pokazane są wszystkie przerobione pr
 
 ## Warsztaty
 **Django Girls**
+
 **Programowanie od zera - Python. Warsztaty**
+
 **Programowanie w Pythonie dla początkujących - KROK 2. Warsztaty**
 
 ## Narzędzia
